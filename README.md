@@ -471,7 +471,7 @@ MIT License – See LICENSE file for details
 
 ## Security Disclosures
 
-For security vulnerabilities, please email: security@example.com
+For security vulnerabilities, please email: elkhaddarmehammedali@gmail.com
 
 **Do not open public issues for security vulnerabilities.**
 
